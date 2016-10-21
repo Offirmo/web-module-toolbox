@@ -1,0 +1,16 @@
+{
+  "name": "web-module-toolbox",
+  "version": "0.0.1",
+  "description": "aggregation of modules needed to make a web module (npm)",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:Offirmo/web-module-toolbox.git",
+    "type": "git"
+  },
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^2.0.3",
+    "uglify-js": "^2.7.3"
+  }
+}
