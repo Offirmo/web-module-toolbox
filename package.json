@@ -1,6 +1,6 @@
 {
   "name": "@offirmo/web-module-toolbox",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "aggregation of modules needed to make a web module (npm)",
   "main": "index.js",
   "repository": {
