@@ -9,6 +9,9 @@
   },
   "author": "Offirmo <offirmo.net@gmail.com>",
   "license": "UNLICENSED",
+  "scripts": {
+    "np": "np"
+  },
   "dependencies": {
     "cpx": "^1.5.0",
     "node-typescript-compiler": "^1.1.1",
