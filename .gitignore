@@ -2,5 +2,8 @@
 npm-debug.log
 npm-debug.log*
 
+# no locking
+yarn.lock
+
 # Dependency directories
 node_modules
