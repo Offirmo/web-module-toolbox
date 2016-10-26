@@ -1,6 +1,6 @@
 {
   "name": "@offirmo/web-module-toolbox",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "aggregation of modules needed to make a web module (npm)",
   "main": "index.js",
   "repository": {
@@ -9,10 +9,6 @@
   },
   "author": "Offirmo <offirmo.net@gmail.com>",
   "license": "UNLICENSED",
-  "scripts": {
-    "test": "echo 'no need'",
-    "np": "np"
-  },
   "dependencies": {
     "cpx": "^1.5.0",
     "node-typescript-compiler": "^1.1.1",
